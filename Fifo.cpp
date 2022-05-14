@@ -1,6 +1,3 @@
-//
-// Created by simon on 14.05.2022.
-//
 
 #include "Fifo.h"
 #include "string"

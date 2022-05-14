@@ -1,6 +1,3 @@
-//
-// Created by simon on 14.05.2022.
-//
 
 #ifndef INC_2_2_FIFO_H
 #define INC_2_2_FIFO_H
